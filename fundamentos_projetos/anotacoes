@@ -1,0 +1,26 @@
+para entrar na pasta basta digitar, cd fundamentos_projetos
+
+Seph@DESKTOP-8H0CU4K MINGW64 ~/Desktop/Curso-Python
+$ cd fundamentos_projetos
+
+Seph@DESKTOP-8H0CU4K MINGW64 ~/Desktop/Curso-Python/fundamentos_projetos
+$
+
+dir ou ls, para ver todos arquivos desta pasta, ou seja, listar eles.
+
+limpar o terminal, clear.
+
+# -*- coding: utf-8 -*- usa para mudar sistema de codificaçao de um arquivo.
+
+------------------------------------------------------------------------------
+# /usr/bin/env python
+# /usr/bin/python
+# /usr/local/bin/python
+# python (usando)
+
+# /usr/bin/python -v
+
+--------
+#Importante nao ter mais de /usr/bin/env python nos arquivos, somente em 1 qndo for fazer os comandos, para nao dar conflito, no caso bash: 
+# ./area_circulo_v3.py: /Usr/local/bin/python3: bad interpreter: No such file or directory
+----------------------------------------------------------------------------------------
