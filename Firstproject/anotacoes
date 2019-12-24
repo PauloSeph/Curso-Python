@@ -1,11 +1,3 @@
-para entrar na pasta basta digitar, cd fundamentos_projetos
-
-Seph@DESKTOP-8H0CU4K MINGW64 ~/Desktop/Curso-Python
-$ cd fundamentos_projetos
-
-Seph@DESKTOP-8H0CU4K MINGW64 ~/Desktop/Curso-Python/fundamentos_projetos
-$
-
 dir ou ls, para ver todos arquivos desta pasta, ou seja, listar eles.
 
 limpar o terminal, clear.
