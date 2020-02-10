@@ -5,6 +5,8 @@ def tag_bloco(texto, classe='success'):
 
 if __name__ == '__main__':
     # Testes (assertions)
+    # Testando para ver se realmente vai retornar aquilo que eu espero
+    # Não é recomendado usar dessa forma, é recomendado para depuração do codigo.
     assert tag_bloco('Incluido com sucesso!') == \
         '<div class="success">Incluido com sucesso!</div>'
     assert tag_bloco('Impossivel excluir!', 'error') == \
